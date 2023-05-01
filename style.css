@@ -1,0 +1,104 @@
+.container {
+    max-width: 1100;
+}
+header{
+    background-color: rgb(236, 232, 240);
+    height: 550px;
+    background-size: cover;
+    position: relative;
+}
+.btn{
+
+
+    background-color: white;
+    border-radius: 20px;
+    color: blueviolet;
+    font-weight: bold;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.title-color{
+
+    font-family: 'Bellota', sans-serif;
+    color: blueviolet;
+}
+.title{
+
+    color: blueviolet;
+    font-size: 40px;
+    font-family: 'Mulish', sans-serif;
+    position: absolute;
+    top: 20%;
+    
+}
+
+#row-nosotros{
+  background-color: wheat;
+  padding-top: 100px !important;
+
+
+}
+#row-nosotros img{
+
+ border-radius: 50%;
+ 
+}
+.p{
+    font-family: 'Mulish', sans-serif;
+}
+
+#row-contacto{
+    background-color:rgb(221, 160, 221)
+
+}
+footer{
+    background-color: rgb(0, 0, 0);
+    padding: 10px 0;
+
+
+}
+
+h1 {
+    font-family: 'Bellota', sans-serif;
+    font-size: 70px;
+    color: rgb(66, 0, 113);
+    font-weight: 600;
+}
+
+h4 {
+    font-family: 'Mulish', sans-serif;
+    font-size: 50px;
+  }
+h6{
+    color: rgb(255, 255, 255);
+    font-family: 'Mulish', sans-serif;
+}
+p1 {
+    font-family: 'Mulish', sans-serif;
+    font-size: 26px;
+    font-weight: 500;
+    width: 80%;
+    margin: 0 auto; /* opcional: centrar el párrafo horizontalmente */
+}
+
+.btn-contacto {
+    font-size: 1.7rem; 
+    background-color:darkslateblue;
+    border-color:darkslateblue;
+    color: white;
+    font-weight: 100; 
+
+  }
+
+#row-beneficios img{
+    border-radius: 500%;
+}
+
+.row{
+    margin: 0;
+}
+
+.col h4 {
+    margin-bottom: 2rem;
+    margin-top: 3rem;
+  }
